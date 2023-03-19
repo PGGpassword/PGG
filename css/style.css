@@ -53,6 +53,10 @@ ul li.active a{
     color: white;
     font size: 100;
 }
+.title h2{
+    color: white;
+    font size: 100;
+}
 .button{
     position: absolute;
     top: 60%;
